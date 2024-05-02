@@ -9,7 +9,7 @@ Bước 2: Cài đặt 3Proxy
 
 Các bạn chạy lệnh sau để cài đặt trong trường hợp proxy cần user và pass:
 ```
-wget https://raw.githubusercontent.com/ntt3005/v6/main/install.sh && chmod +x setup.sh && bash setup.sh
+wget https://raw.githubusercontent.com/ntt3005/v6/main/setup.sh && chmod +x setup.sh && bash setup.sh
 ```
 
  
